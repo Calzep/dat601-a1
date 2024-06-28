@@ -1,8 +1,10 @@
 # dat601-a1
-Repository for my first assessment for DAT601 Database Concepts.
+Repository for my second assessment for DAT601 Database Concepts.
 
-This repository contains a written report and an SQL script.
+This repository contains a written report and an 2 SQL scripts.
 
-The written reports contains an introduciton to data modelling in information systems, an overview of conceptual modelling, and a conceptual model, data dictionary, and assumptions of business rules for the FlightStream database scenario.
+The written reports contains conceptual modelling, logical modelling, and physical implementation of a database.
 
-The SQL script contains the creation scripts and data insertion scripts for an example database (unrelated to the FLightStream scenario) and a selection of queries to demonstrate my knowledge of T-SQL.
+The first SQL script, BusinessDatabase contains the creation scripts and data insertion scripts for an example database (unrelated to the FLightStream scenario) and a selection of queries to demonstrate my knowledge of T-SQL.
+
+The second SQL script, FlightStreamDBScript, contains the creation scripts, data inserting scripts, and queries for the Flight Stream database.
